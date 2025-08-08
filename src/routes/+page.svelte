@@ -152,7 +152,10 @@
 				<div>
 					<h3 class="mb-4 text-2xl font-semibold text-purple-400">Contact me</h3>
 					<div class="text-lg leading-relaxed text-gray-300">
-						<div class="font-semibold text-blue-400"><a href="trkckfr@gmail.com">Email Me</a></div>
+						<div class="font-semibold text-gray-400">Email: trkckfr@gmail.com</div>
+						<div class="font-semibold text-gray-400">Phone number: +82) 10-9578-7365</div>
+						<div class="font-semibold text-gray-400">Github: fracmyth</div>
+						<div class="font-semibold text-gray-400">Discord: informaticgold</div>
 					</div>
 				</div>
 			</div>
