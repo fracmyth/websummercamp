@@ -1,2 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+* {
+    font-family: "Libertinus Serif", serif;
+    */ font-size: 24px
+}
